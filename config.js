@@ -19,13 +19,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze'
-global.sessionName = 'nazedev'
-global.prefa = ['','!','.','#','&']
+global.owner = ['436993190999919']
+global.ownernomer = "436993190999919"
+global.premium = ['436993190999919']
+global.packname = 'Riakimu❤️BOT'
+global.author = 'Owner:\nKhalfy Ramadhani'
+global.sessionName = 'session'
+global.prefa = ['!']
 global.sp = ''
 global.mess = {
     success: 'Done',
@@ -36,7 +36,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Scrapping Me Data...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
